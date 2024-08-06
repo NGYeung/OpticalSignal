@@ -1,0 +1,37 @@
+before robust scale with pca
+linear regression
+0.48566490337883833
+
+random forest
+0.2435063320252768
+
+Gradient Boosting
+0.28411000052699314
+
+SVR
+67.50705293965218
+
+Kernel Ridge
+84.3214884698835
+
+MLP
+0.3075730856685426
+###############################################
+robust
+linear regression
+0.4856649033788738
+
+random forest
+0.24356987878742975
+
+Gradient Boosting
+0.28411000052699314
+
+SVR
+69.07678655993452
+
+Kernel Ridge
+68.71107988904018
+
+MLP
+0.295144951228538
